@@ -21,7 +21,7 @@ Most external monitors don't sync brightness with your Mac. Dimmit fixes that. I
 
 ## Pricing
 
-- **15-day free trial** — Full functionality, no payment required.
+- **14-day free trial** — Full functionality, no payment required.
 - **$7.99 lifetime license** — One purchase, yours forever.
 
 ## Requirements
